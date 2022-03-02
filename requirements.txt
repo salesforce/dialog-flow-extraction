@@ -1,0 +1,14 @@
+loguru
+numpy
+scipy
+networkx
+matplotlib
+transformers
+torch
+spacy
+datasets
+pandas
+pytorch-crf
+tensorboard
+scikit-learn
+sacrebleu
