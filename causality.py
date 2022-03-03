@@ -1,4 +1,12 @@
+"""
+ * Copyright (c) 2021, salesforce.com, inc.
+ * All rights reserved.
+ * SPDX-License-Identifier: BSD-3-Clause
+ * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+"""
+
 # Adpated from https://github.com/Renovamen/pcalg-py, which is a python implementation of pcalg.
+
 import itertools
 from itertools import combinations, chain
 import os

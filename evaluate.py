@@ -1,3 +1,10 @@
+"""
+ * Copyright (c) 2021, salesforce.com, inc.
+ * All rights reserved.
+ * SPDX-License-Identifier: BSD-3-Clause
+ * For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+"""
+
 from sklearn import metrics
 from sklearn.metrics import precision_score, recall_score, f1_score
 import numpy as np
